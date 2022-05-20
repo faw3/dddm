@@ -15,6 +15,7 @@ import hydralit_components as hc
 from streamlit_option_menu import option_menu 
 import plotly.graph_objects as go
 from random import sample
+import _tkinter as TK
 
 # In[2]:
 
